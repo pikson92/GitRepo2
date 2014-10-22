@@ -13,8 +13,7 @@ namespace EasyArchive
 {
     public partial class mainForm1 : Form
     {
-
-        ActivityLogger _activityLogger;
+                ActivityLogger _activityLogger;
         public mainForm1()
         {
             InitializeComponent();
